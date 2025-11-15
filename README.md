@@ -28,9 +28,7 @@ This project is built with Python and relies on the following core libraries:
 * **NLP (Symptom Extraction):** **spaCy** (for parsing user input)
 * **Data Handling:** **Pandas**, **Joblib** (for loading the model)
 
-### File Structure
-├── 📄 main.py # The main Streamlit application script ├── 📦 disease_model.pkl # The pre-trained scikit-learn (Naive Bayes) model ├── 📄 symptom_columns.json # "Contract" file mapping model features (symptoms) ├── 📄 symptom_precaution.csv # Database of precautions and triage advice ├── 📄 requirements.txt # List of Python dependencies └── 📄 README.md # You are here!
----
+
 
 ## 🚀 Setup & Installation
 
